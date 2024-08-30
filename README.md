@@ -1,5 +1,12 @@
 ## Hi there 👋
+### This is Akshay 🕵️‍♂️
 
+- 👨‍🎓 UnderGrad Student
+- 🌱 I’m currently learning Deep Learning
+- 💬 Good At Problem Solving
+- 👯 Passion to help businesses and People grow
+- ⚡ Ambivert
+- 🏎️ Love cars on Track and Road
 <!--
 **Akshay-66/Akshay-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
